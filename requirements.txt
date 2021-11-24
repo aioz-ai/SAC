@@ -1,0 +1,6 @@
+numpy==1.19.5
+opencv_python==4.5.2.54
+scipy==1.5.4
+setuptools==57.0.0
+six==1.15.0
+tensorflow==1.14.0
